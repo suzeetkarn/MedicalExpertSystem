@@ -1,0 +1,119 @@
+[
+    {
+     "cold": [
+       {
+        "covidRisk" : "Most common symptoms for covid",
+        "score" : "05",
+        "score_weight": "05"
+       }
+     ]
+   },
+   {
+     "cough": [
+       {
+        "covidRisk" : "Most common symptoms for covid",
+        "score" : "05",
+        "score_weight": "05"
+       }
+     ]
+   },
+   {
+     "tiredness": [
+       {
+        "covidRisk" : "Most common symptoms for covid",
+        "score" : "05",
+        "score_weight": "05"
+       }
+     ]
+   },
+   {
+     "loss of taste or smell": [
+       {
+        "covidRisk" : "Most common symptoms for covid",
+        "score" : "05",
+        "score_weight": "05"
+       }
+     ]
+   },
+   {
+     "sore throat": [
+       {
+        "covidRisk" : "Less common symptoms:",
+        "score" : "01",
+        "score_weight": "01"
+       }
+     ]
+   },
+   {
+     "headache": [
+       {
+        "covidRisk" : "Less common symptoms:",
+        "score" : "01",
+        "score_weight": "01"
+       }
+     ]
+   },
+   {
+     "aches and pains": [
+       {
+        "covidRisk" : "Less common symptoms:",
+        "score" : "01",
+        "score_weight": "01"
+       }
+     ]
+   },
+   {
+     "diarrhoea": [
+       {
+        "covidRisk" : "Less common symptoms:",
+        "score" : "01",
+        "score_weight": "01"
+       }
+     ]
+   },
+   {
+     "a rash on skin, or discolouration of fingers or toes": [
+       {
+        "covidRisk" : "Less common symptoms:",
+        "score" : "01",
+        "score_weight": "01"
+       }
+     ]
+   },
+   {
+     "red or irritated eyes": [
+       {
+        "covidRisk" : "Less common symptoms:",
+        "score" : "01",
+        "score_weight": "01"
+       }
+     ]
+   },{
+     "difficulty breathing or shortness of breath": [
+       {
+        "covidRisk" : "Serious symptoms:",
+        "score" : "10",
+        "score_weight": "10"
+       }
+     ]
+   },
+   {
+     "loss of speech or mobility, or confusion": [
+       {
+        "covidRisk" : "Serious symptoms:",
+        "score" : "10",
+        "score_weight": "10"
+       }
+     ]
+   },
+   {
+     "chest pain": [
+       {
+        "covidRisk" : "Serious symptoms:",
+        "score" : "10",
+        "score_weight": "10"
+       }
+     ]
+   }
+
+   ]
